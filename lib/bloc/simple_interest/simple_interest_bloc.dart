@@ -1,4 +1,5 @@
 import 'package:bloc/bloc.dart';
+//comment
 
 class SimpleInterestBloc extends Cubit<double> {
   SimpleInterestBloc() : super(0.0);
